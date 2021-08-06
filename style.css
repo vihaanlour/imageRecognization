@@ -1,0 +1,18 @@
+body {
+  color: rgb(10, 1, 1);
+  background: rgb(233, 236, 17);
+}
+.heading {
+  width: 80%;
+  font-size: 22px;
+}
+#camera {
+  border: 5px dotted rgb(3, 104, 12);
+  width: 400px;
+  height: 300px;
+}
+.nameOfObjects,
+#resultObjectName,
+#resultObjectAccuracy {
+  color: rgb(17, 17, 1);
+}
